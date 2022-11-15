@@ -3,6 +3,7 @@
 
 /*--- Standard Libs ---*/
 #include <stddef.h>
+#include <stdlib.h>
 
 /*--- Structures and Types ---*/
 
