@@ -5,7 +5,7 @@
  *
  * @node: Pointer to the node to check
  *
- * Return 1 if node is leaf
+ * Return: 1 if node is leaf
  * Otherwise: 0 && if node is NULL
  *
  */
