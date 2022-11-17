@@ -8,7 +8,8 @@
  *
  * @tree: pointer to the root node of the tree to traverse
  * @func: pointer to a function to call for each node.
- * 	value of the node is passed as a parameter to this function
+ *	value of the node is passed as a parameter
+ *	to this function
  *
  * Return: Nothing
  */
