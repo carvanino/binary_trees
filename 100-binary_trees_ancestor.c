@@ -1,8 +1,6 @@
 #include "binary_trees.h"
 
 
-#include "binary_trees.h"
-
 /**
  * depth - measures the depth of a node in a binary tree
  *
@@ -30,7 +28,8 @@ size_t depth(const binary_tree_t *tree)
  *	otherwise NULL
  */
 
-binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tree_t *second)
+binary_tree_t *binary_trees_ancestor(const binary_tree_t *first,
+const binary_tree_t *second)
 {
 	if (!first || !second)
 		return (NULL);
